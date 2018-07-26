@@ -1,4 +1,4 @@
 module.exports = {
-    database: '',
+    database: 'xx',
     secret: 'yoursecret'
   }
